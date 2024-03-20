@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aaron-Paranoid-Android
 - 🤖 I’m interested in AI and video games
 - 🌱 I’m currently learning more and more coding languages
-- 👽 Pronouns: they/them
+- 👽 Pronouns: any
 - 🗽 Fun fact: I've been to 45 of the 50 states
 
 <!---
